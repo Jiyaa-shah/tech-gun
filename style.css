@@ -1,0 +1,171 @@
+/* RGB COLOR */
+/* .div1{
+    background-color:rgba(255, 99,71,0.5);
+} */
+/* Hexadecimal color */
+/* .div2{
+    background-color:#480F7A;
+}
+.div3{
+    background-color:hsl(219, 93%, 30%);
+}
+.div4{
+    background-color:hsla(99, 93%, 30%, 0.5);
+} */
+
+/* PRACTICE OF GRADIENT COLOR (linear gradient) */
+/* #div1{
+    height:500px;
+    border:1px solid grey;
+    background-image:linear-gradient(green,blue,RED) ;
+}
+/* PRACTICE OF GRADIENT COLOR (radial gradient) */
+/* #div2{
+    height:500px;
+    border:1px solid grey;
+    background-image:radial-gradient(green,blue,RED) ; 
+} */
+
+/* PRACTICE OF MARGIN */
+/* #div{
+    margin:10px,50px,10px,50px;
+    background-color: indianred;
+    border:1px solid black ;
+}
+#div1{
+    background-color: blue;
+    height:500px;
+    width:500px;
+    max-height: 700px;
+    max-width: 600px;
+    min-width:400px;
+    min-width:300px;
+} */
+
+/* PRACTICE OF BORDERS */
+
+/* .div1 {
+    border-style: double;
+    color: seashell;
+    background-color: rgba(143, 61, 7, 0.9);
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+    /* margin:0 auto; */
+/* display: inline-block;
+} */
+
+/* .div2 {
+    border-style: groove;
+    color: seashell;
+    background-color: rgba(111, 129, 8, 0.9);
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+    /* margin:0 auto; */
+    /* display: inline-block;
+} */ 
+
+/* .div3 {
+    border-style: inherit;
+    color: seashell;
+    background-color: rgba(7, 89, 143, 0.9);
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+    /* margin:0 auto; */
+    /* display: inline-block;
+} */ 
+
+/* .div4 {
+    border-style: initial;
+    color: seashell;
+    background-color: rgba(73, 128, 173, 0.9);
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+    /* margin:0 auto; */
+    /* display: inline-block;
+} */ 
+
+/* .div5 {
+    border-style: inset;
+    color: seashell;
+    background-color: rgba(172, 23, 122, 0.616);
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+    /* margin:0 auto; */
+    /* display: inline-block;
+} */ 
+
+
+/* .div7 {
+    border-style: ridge;
+    color: seashell;
+    background-color: rgba(143, 61, 7, 0.9);
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+    /* margin:0 auto; */
+/* }
+
+.div8 {
+    border-style: solid;
+    color: seashell;
+    background-color: rgba(7, 143, 52, 0.9);
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+    /* margin:0 auto; */
+/* } 
+
+/* .div9 {
+    border-style: dotted;
+    color: seashell;
+    background-color: rgba(41, 172, 154, 0.795);
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+    /* margin:0 auto; */
+/* } */
+/* 
+.div10 {
+    border-style: dashed;
+    color: seashell;
+    background-color: rgba(94, 9, 35, 0.795);
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+    /* margin:0 auto; */
+/* }
+
+.directionRow {
+    width: 100%;
+    background-color: sienna;
+} */ 
+
+/* PRACTICE OF POSITION */
+#parent{
+    width: 200px;
+    height: 200px;
+    border: 1px rebeccapurple;
+}
+#one{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    display: inline-block;
+}
+#two{
+    width: 40px;
+    height: 40px;
+    background-color: saddlebrown;
+    display: inline-block;
+}
+#three{
+    width: 40px;
+    height: 40px;
+    background-color:palevioletred ;
+    display: inline-block;
+}
